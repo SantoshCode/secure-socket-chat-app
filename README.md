@@ -30,3 +30,5 @@ Terminal session 2
 ```sh
 $ python3 client.py
 ```
+
+![Feb-03-2023 23-18-28](https://user-images.githubusercontent.com/50507577/216669660-26a59905-d7ed-4607-987b-9195613014e7.gif)
